@@ -45,6 +45,12 @@ A personal portfolio website built with Next.js and React, connected to a Drupal
 ## Environment Variables
 - `NEXT_PUBLIC_DRUPAL_BASE_URL`: URL of your Drupal backend (e.g., http://localhost:60814)
 
+## Backend
+
+The Drupal backend powering this portfolio is available at: [[your-backend-repo-link](https://github.com/TJsohn/my_portfolio_backend_drupal10)]
+
+See its README for setup and API details.
+
 ## Deployment
 You can deploy this app to Vercel, Netlify, or any platform supporting Next.js. For Vercel:
 - Push your code to GitHub
