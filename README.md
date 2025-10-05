@@ -47,7 +47,7 @@ A personal portfolio website built with Next.js and React, connected to a Drupal
 
 ## Backend
 
-The Drupal backend powering this portfolio is available at: [[your-backend-repo-link](https://github.com/TJsohn/my_portfolio_backend_drupal10)]
+The Drupal backend powering this portfolio is available at: [My backend repo](https://github.com/TJsohn/my_portfolio_backend_drupal10)
 
 See its README for setup and API details.
 
